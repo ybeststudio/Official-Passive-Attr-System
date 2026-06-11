@@ -1,0 +1,10 @@
+30272	ETC	icon/item/30272.tga
+30273	ETC	icon/item/30273.tga
+30274	ETC	icon/item/30274.tga
+30275	ETC	icon/item/30275.tga
+30276	ETC	icon/item/30276.tga
+30280	ETC	icon/item/30280.tga
+30281	ETC	icon/item/30281.tga
+30282	ETC	icon/item/30282.tga
+30283	ETC	icon/item/30283.tga
+30284	ETC	icon/item/30284.tga

@@ -1,0 +1,10 @@
+30272	Savaşçı ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30273	Ninja ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30274	Sura ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30275	Şaman ruhu kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30276	Lycan ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30280	Savaşçı kalıntı kıymığı	Chaegirab bu kıymık ile bir Savaşçı ruh kalıntısı üretebilir.
+30281	Ninja kalıntı kıymığı	Chaegirab bu kıymık ile bir Ninja ruh kalıntısı üretebilir.
+30282	Sura kalıntı kıymığı	Chaegirab bu kıymık ile bir Sura ruh kalıntısı üretebilir.
+30283	Şaman kalıntı kıymığı	Chaegirab bu kıymık ile bir Şaman ruh kalıntısı üretebilir.
+30284	Lycan kalıntı kıymığı	Chaegirab bu kıymık ile bir Lycan ruh kalıntısı üretebilir.
